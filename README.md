@@ -1,4 +1,4 @@
-# k-Nearest-Neighbors-Algorithm
+# k-Nearest-Neighbors Algorithm
 
 Make sure to have Python 3.7 installed on your computer
 
